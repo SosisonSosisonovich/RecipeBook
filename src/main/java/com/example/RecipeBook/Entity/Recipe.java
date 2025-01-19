@@ -1,5 +1,6 @@
 package com.example.RecipeBook.Entity;
 
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
